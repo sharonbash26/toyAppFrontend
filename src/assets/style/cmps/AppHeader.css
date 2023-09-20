@@ -1,0 +1,12 @@
+.app-header {
+    background-color: palevioletred;
+    color: black;
+    padding: 1em;
+  }
+  
+  @media(max-width: 720px) {
+    .app-header {
+      color: cadetblue;
+    }
+  }
+  

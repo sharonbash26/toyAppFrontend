@@ -1,0 +1,36 @@
+.ToyDetails {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .ToyDetails h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .ToyDetails h5 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .ToyDetails p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .ToyDetails a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .ToyDetails a:hover {
+    background-color: #0056b3;
+  }
+  
